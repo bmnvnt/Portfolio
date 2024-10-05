@@ -1,2 +1,3 @@
-# PortfolioEggi.github.io
-this is my portfolio website 
+# PortfolioBima.github.io
+
+this is my portfolio website
